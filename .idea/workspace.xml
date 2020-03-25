@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e574835-b0e6-4958-a375-ebda88daebbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Softs/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Softs\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zbw6cPjZIIJtdP9ELl1HO2vw0d" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/commom/src/main/java/com/ly/commom/entity" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\源码\ShopCloud\commom\src\main\java\com\ly\commom\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ly.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ly.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e574835-b0e6-4958-a375-ebda88daebbb" name="Default Changelist" comment="" />
+      <created>1585120926962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585120926962</updated>
+      <workItem from="1585120929395" duration="813000" />
+      <workItem from="1585121751198" duration="1578000" />
+      <workItem from="1585123594253" duration="2545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="92" key="#Project_Structure" timestamp="1585123649362">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="92" key="#Project_Structure/62.0.1474.864@62.0.1474.864" timestamp="1585123649362" />
+    <state width="1433" height="528" key="GridCell.Tab.0.bottom" timestamp="1585126159211">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585126159211" />
+    <state width="1433" height="528" key="GridCell.Tab.0.center" timestamp="1585126159210">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585126159210" />
+    <state width="1433" height="528" key="GridCell.Tab.0.left" timestamp="1585126159210">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585126159210" />
+    <state width="1433" height="528" key="GridCell.Tab.0.right" timestamp="1585126159211">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585126159211" />
+    <state width="1433" height="528" key="GridCell.Tab.1.bottom" timestamp="1585126159212">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585126159212" />
+    <state width="1433" height="528" key="GridCell.Tab.1.center" timestamp="1585126159212">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1585126159212" />
+    <state width="1433" height="528" key="GridCell.Tab.1.left" timestamp="1585126159212">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1585126159212" />
+    <state width="1433" height="528" key="GridCell.Tab.1.right" timestamp="1585126159212">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1433" height="528" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1585126159212" />
+    <state x="308" y="17" key="SettingsEditor" timestamp="1585121740330">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="17" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585121740330" />
+    <state x="479" y="174" width="640" height="516" key="find.popup" timestamp="1585124389405">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="479" y="174" width="640" height="516" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1585124389405" />
+    <state x="196" y="129" key="new project wizard" timestamp="1585122735318">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="196" y="129" key="new project wizard/62.0.1474.864@62.0.1474.864" timestamp="1585122735318" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585125818064">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1585125818064" />
+    <state x="522" y="346" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585121506013">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="522" y="346" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/62.0.1474.864@62.0.1474.864" timestamp="1585121506013" />
+  </component>
+</project>
