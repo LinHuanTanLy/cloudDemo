@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e574835-b0e6-4958-a375-ebda88daebbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/ly/gateway/GateWayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/ly/gateway/GateWayApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/ly/gateway/GateWayApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/com/ly/gateway/GateWayApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <recent name="D:\BaiduNetdiskDownload\源码\ShopCloud\commom\src\main\java\com\ly\commom\entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.GateWayApplication">
+  <component name="RunManager" selected="Spring Boot.ProductApplication">
     <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gateway" />
       <extension name="coverage">
@@ -128,7 +129,7 @@
       <workItem from="1585121751198" duration="1578000" />
       <workItem from="1585123594253" duration="4549000" />
       <workItem from="1585142817483" duration="2238000" />
-      <workItem from="1585182484267" duration="2547000" />
+      <workItem from="1585182484267" duration="5782000" />
     </task>
     <servers />
   </component>
@@ -140,38 +141,38 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="392" y="92" key="#Project_Structure/62.0.1474.864@62.0.1474.864" timestamp="1585146242311" />
-    <state width="1433" height="485" key="GridCell.Tab.0.bottom" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.0.bottom" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.0.center" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
+    <state width="1433" height="578" key="GridCell.Tab.0.center" timestamp="1585194585523">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.0.left" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585194585523" />
+    <state width="1433" height="578" key="GridCell.Tab.0.left" timestamp="1585194585523">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.0.right" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585194585523" />
+    <state width="1433" height="578" key="GridCell.Tab.0.right" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.1.bottom" timestamp="1585185196117">
+    <state width="1433" height="578" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
+    <state width="1433" height="578" key="GridCell.Tab.1.bottom" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585185196117" />
-    <state width="1433" height="485" key="GridCell.Tab.1.center" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
+    <state width="1433" height="578" key="GridCell.Tab.1.center" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.1.left" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
+    <state width="1433" height="578" key="GridCell.Tab.1.left" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
-    <state width="1433" height="485" key="GridCell.Tab.1.right" timestamp="1585185196116">
+    <state width="1433" height="578" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
+    <state width="1433" height="578" key="GridCell.Tab.1.right" timestamp="1585194585524">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1433" height="485" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1585185196116" />
+    <state width="1433" height="578" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1585194585524" />
     <state x="308" y="17" key="SettingsEditor" timestamp="1585121740330">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -184,10 +185,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="196" y="129" key="new project wizard/62.0.1474.864@62.0.1474.864" timestamp="1585146407664" />
-    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585184810477">
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585188690008">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1585184810477" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1585188690008" />
     <state x="522" y="346" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585121506013">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
