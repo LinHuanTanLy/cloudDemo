@@ -27,9 +27,12 @@ spring:
     gateway:
       routes:
         - id: product_route
-          uri: http://localhost:8700
+          uri: lb://product-server
           order: 1
           predicates:
             - Path=/product-serv/**
           filters:
             - StripPrefix=1
+      discovery:
+        locator:
+          enabled: true # 开启gateway nacos
