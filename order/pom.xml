@@ -38,10 +38,10 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
         <!--sentinel-->
-<!--        <dependency>-->
-<!--            <groupId>com.alibaba.cloud</groupId>-->
-<!--            <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
+        </dependency>
         <!--rocketmq-->
 <!--        <dependency>-->
 <!--            <groupId>org.apache.rocketmq</groupId>-->
